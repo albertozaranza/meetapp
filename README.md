@@ -1,2 +1,2 @@
 # MeetApp
-App agregador de eventos para desenvolvedores
+App event aggregator for developers
