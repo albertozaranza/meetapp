@@ -5,7 +5,14 @@
   "repository": "https://github.com/albertozaranza/meetapp.git",
   "author": "albertozaranza <albertozaranza@outlook.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "sucrase": "^3.10.1",
+    "nodemon": "^1.19.1"
   }
 }
